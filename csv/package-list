@@ -1,0 +1,36 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:io.github.kotools.csv.api////PointingToDeclaration/csv/io.github.kotools.csv.api/index.html
+$dokka.location:io.github.kotools.csv.api//comma/#/PointingToDeclaration/csv/io.github.kotools.csv.api/comma.html
+$dokka.location:io.github.kotools.csv.api//csvReader/#kotlin.Function1[io.github.kotools.csv.api.Reader,kotlin.Unit]/PointingToDeclaration/csv/io.github.kotools.csv.api/csv-reader.html
+$dokka.location:io.github.kotools.csv.api//csvReaderAsync/kotlinx.coroutines.CoroutineScope#kotlin.Function1[io.github.kotools.csv.api.Reader,kotlin.Unit]/PointingToDeclaration/csv/io.github.kotools.csv.api/csv-reader-async.html
+$dokka.location:io.github.kotools.csv.api//csvWriter/#kotlin.Function1[io.github.kotools.csv.api.Writer,kotlin.Unit]/PointingToDeclaration/csv/io.github.kotools.csv.api/csv-writer.html
+$dokka.location:io.github.kotools.csv.api//csvWriterAsync/kotlinx.coroutines.CoroutineScope#kotlin.Function1[io.github.kotools.csv.api.Writer,kotlin.Unit]/PointingToDeclaration/csv/io.github.kotools.csv.api/csv-writer-async.html
+$dokka.location:io.github.kotools.csv.api//semicolon/#/PointingToDeclaration/csv/io.github.kotools.csv.api/semicolon.html
+$dokka.location:io.github.kotools.csv.api//strictCsvReader/#kotlin.Function1[io.github.kotools.csv.api.Reader,kotlin.Unit]/PointingToDeclaration/csv/io.github.kotools.csv.api/strict-csv-reader.html
+$dokka.location:io.github.kotools.csv.api//strictCsvReaderAsync/kotlinx.coroutines.CoroutineScope#kotlin.Function1[io.github.kotools.csv.api.Reader,kotlin.Unit]/PointingToDeclaration/csv/io.github.kotools.csv.api/strict-csv-reader-async.html
+$dokka.location:io.github.kotools.csv.api//strictCsvWriter/#kotlin.Function1[io.github.kotools.csv.api.Writer,kotlin.Unit]/PointingToDeclaration/csv/io.github.kotools.csv.api/strict-csv-writer.html
+$dokka.location:io.github.kotools.csv.api//strictCsvWriterAsync/kotlinx.coroutines.CoroutineScope#kotlin.Function1[io.github.kotools.csv.api.Writer,kotlin.Unit]/PointingToDeclaration/csv/io.github.kotools.csv.api/strict-csv-writer-async.html
+$dokka.location:io.github.kotools.csv.api/Csv///PointingToDeclaration/csv/io.github.kotools.csv.api/-csv/index.html
+$dokka.location:io.github.kotools.csv.api/Csv/file/#/PointingToDeclaration/csv/io.github.kotools.csv.api/-csv/file.html
+$dokka.location:io.github.kotools.csv.api/Csv/folder/#/PointingToDeclaration/csv/io.github.kotools.csv.api/-csv/folder.html
+$dokka.location:io.github.kotools.csv.api/Csv/separator/#/PointingToDeclaration/csv/io.github.kotools.csv.api/-csv/separator.html
+$dokka.location:io.github.kotools.csv.api/CsvError///PointingToDeclaration/csv/io.github.kotools.csv.api/-csv-error/index.html
+$dokka.location:io.github.kotools.csv.api/CsvFileNotFoundError///PointingToDeclaration/csv/io.github.kotools.csv.api/-csv-file-not-found-error/index.html
+$dokka.location:io.github.kotools.csv.api/CsvFileNotFoundError/CsvFileNotFoundError/#kotlin.String/PointingToDeclaration/csv/io.github.kotools.csv.api/-csv-file-not-found-error/-csv-file-not-found-error.html
+$dokka.location:io.github.kotools.csv.api/InvalidConfigError///PointingToDeclaration/csv/io.github.kotools.csv.api/-invalid-config-error/index.html
+$dokka.location:io.github.kotools.csv.api/InvalidConfigError/InvalidConfigError/#kotlin.String/PointingToDeclaration/csv/io.github.kotools.csv.api/-invalid-config-error/-invalid-config-error.html
+$dokka.location:io.github.kotools.csv.api/InvalidPropertyError///PointingToDeclaration/csv/io.github.kotools.csv.api/-invalid-property-error/index.html
+$dokka.location:io.github.kotools.csv.api/InvalidPropertyError/InvalidPropertyError/#kotlin.String/PointingToDeclaration/csv/io.github.kotools.csv.api/-invalid-property-error/-invalid-property-error.html
+$dokka.location:io.github.kotools.csv.api/Reader///PointingToDeclaration/csv/io.github.kotools.csv.api/-reader/index.html
+$dokka.location:io.github.kotools.csv.api/Separator.Comma///PointingToDeclaration/csv/io.github.kotools.csv.api/-separator/-comma/index.html
+$dokka.location:io.github.kotools.csv.api/Separator.Semicolon///PointingToDeclaration/csv/io.github.kotools.csv.api/-separator/-semicolon/index.html
+$dokka.location:io.github.kotools.csv.api/Separator///PointingToDeclaration/csv/io.github.kotools.csv.api/-separator/index.html
+$dokka.location:io.github.kotools.csv.api/Writer.Rows///PointingToDeclaration/csv/io.github.kotools.csv.api/-writer/-rows/index.html
+$dokka.location:io.github.kotools.csv.api/Writer.Rows/unaryPlus/kotlin.collections.Iterable[kotlin.String]#/PointingToDeclaration/csv/io.github.kotools.csv.api/-writer/-rows/unary-plus.html
+$dokka.location:io.github.kotools.csv.api/Writer///PointingToDeclaration/csv/io.github.kotools.csv.api/-writer/index.html
+$dokka.location:io.github.kotools.csv.api/Writer/header/#/PointingToDeclaration/csv/io.github.kotools.csv.api/-writer/header.html
+$dokka.location:io.github.kotools.csv.api/Writer/overwrite/#/PointingToDeclaration/csv/io.github.kotools.csv.api/-writer/overwrite.html
+$dokka.location:io.github.kotools.csv.api/Writer/rows/#kotlin.Function1[io.github.kotools.csv.api.Writer.Rows,kotlin.Unit]/PointingToDeclaration/csv/io.github.kotools.csv.api/-writer/rows.html
+io.github.kotools.csv.api
+
